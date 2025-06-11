@@ -1,6 +1,6 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 
-#出口IP监测站点
+#出口IP监测
 DOMAIN-SUFFIX,orz.tools
 DOMAIN-SUFFIX,m27.tech
 DOMAIN-SUFFIX,skk.moe
